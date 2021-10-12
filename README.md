@@ -1,5 +1,5 @@
 # Inside Jetpack Compose diagram
 
-If you find any problem, please create issue.
+If you find any problems, please create an issue.
 
 ![diagram](./diagram.png)
