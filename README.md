@@ -2,6 +2,11 @@
 
 If you find any problems, please create an issue.
 
+For more information, see the "Inside Jetpack Compose" article.
+
+https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e
+
+
 This diagram illustrates how Jetpack Compose handles changing the state of the following code.
 
 The entire code is [here](https://github.com/takahirom/simple-compose-for-learning-inside-compose/blob/873568ae64965d50cd68abe238e1c5dcb6b30fcc/src/main/kotlin/com/github/takahirom/compose/Main.kt#L82-L92).
